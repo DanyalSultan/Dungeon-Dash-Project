@@ -10,5 +10,5 @@ Run the main.py file to run the program, if error arises that assets are missing
 e.g. 
 "logo.png" must be converted to r"PATH\logo.png"
 
-The leaderboard.py is a standalone program that displays highscores.
+The leaderboard.py is a standalone program that displays highscores and may produce an error if there are not at least 5 accounts registered in the database due to the index threshold not being met.
 
