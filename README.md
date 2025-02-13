@@ -1,4 +1,4 @@
-# A-Level-Computer-Science-Dungeon-Dash-Project
+# Dungeon-Dash-Project
 Dungeon Crawler 2D Platformer Project for Y13 A Level Computer Science NEA Project
 
 Includes an account creation and login system connected with a PostgreSQL Database which stores account information and highscore data (note: The password is hashed before being appended to the database) 
